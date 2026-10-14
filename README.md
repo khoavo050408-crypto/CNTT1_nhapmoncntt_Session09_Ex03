@@ -44,5 +44,4 @@ Dưới đây là bảng đánh giá ưu điểm của hai công cụ hỗ trợ
 ### 4. Task List kiểm tra tiến độ cài đặt lớp học
 - [x] Tải và cài đặt thành công Visual Studio Code
 - [x] Cài đặt extension Python và GitLens
-- [ ] Tạo repository nhóm theo đúng chuẩn `[Tên Lớp]_[Môn Học]_Session08_Ex03`
-- [ ] Đẩy commit đầu tiên lên GitHub
+
